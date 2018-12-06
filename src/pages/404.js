@@ -43,7 +43,7 @@ const NotFoundPage = props => {
         <Menu items={menu} />
       </Header>
       <Article>
-        <Heading title="NOT FOUND" />
+        <Heading title="Not Found" />
         <Bodytext html={notFoundHTML} />
       </Article>
       <Footer links={footerLinksHTML} copyright={copyrightHTML} />
