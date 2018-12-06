@@ -3,6 +3,16 @@ title: About
 categories: ['main']
 ---
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Software Engineer/Architect with experience in various roles - Product Development, Enterprise, Software Engineering, Solution & Enterprise Architecture, Agile/Scrum, Full-Stack, Cloud Computing, Data Analytics & Delivery.
 
-Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.
+• • Specialties/Skillset• •
+
+➤ Web: JavaScript | TypeScript | ReactJs | Redux | Node.js | Express | AngularJs | HTML5 | Bootstrap
+
+➤ Microsoft: .NET Core | C# | Asp.Net MVC | Web API | Linq | Entity Framework
+
+➤ Data: SQL Server 2016 | Oracle | MySQL | MongoDB
+
+➤ Cloud: AWS | S3 | EC2 | SQS | SNS | RDS
+
+➤ Packages & Tools: Redux | GraphQL | WebPack | Babel | NPM | Git | IIS | Splunk | SumoLogic | Jira | Sitecore | Axios

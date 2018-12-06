@@ -1,21 +1,23 @@
 const base = {
-  name: 'Gatsby Starter Kit',
-  url: 'https://github.com/greglobinski/gatsby-starter-kit'
+  name: 'Rasik Jain',
+  url: 'https://www.rasikjain.com',
 };
 
 const config = {
   /* meta tags */
-  siteTitle: `${base.name} - a set of starters for Gatsby.js`,
+  siteTitle: `${
+    base.name
+  } - Software Engineer & Architect | ReactJs | TypeScript | C#`,
   siteTitlePostfix: ` - ${base.name}`,
   siteDescription: `${
     base.name
-  } is a set of starters: Minimal, Equipped, Themed, Website, Blog.`,
+  } - Software Engineer & Architect | ReactJs | TypeScript | C#`,
   siteImage: 'preview.jpg',
   siteLanguage: 'en',
 
   /* site header */
   headerTitle: `${base.name}`,
-  headerSubTitle: 'a set of starters for Gatsby.js',
+  headerSubTitle: 'Software Engineer and Architect',
 
   /* url */
   siteUrl: base.url,
@@ -23,7 +25,7 @@ const config = {
 
   /* manifest */
   manifestName: `${base.name}`,
-  manifestShortName: 'GatsbyKit', // max 12 characters
+  manifestShortName: 'Rasik Jain', // max 12 characters
   manifestStartUrl: '/index.html',
   manifestBackgroundColor: '#ffffff',
   manifestThemeColor: '#ffffff',
@@ -31,7 +33,7 @@ const config = {
   manifestIcon: 'src/content/images/icon.png',
 
   /* Twitter */
-  twitter: '' // used as content of the 'twitter:creator' meta tag
+  twitter: '', // used as content of the 'twitter:creator' meta tag
 };
 
 module.exports = config;

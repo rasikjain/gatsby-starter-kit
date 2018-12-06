@@ -2,8 +2,8 @@
 name: hero
 ---
 
-# Welcome to GatsbyJS Starter Kit
+# Welcome to my blog
 
-It's a series of starters for GatsbyJS: Minimal, Equipped, Themed, Website and Blog. It's 5 in 1!
+Software Engineer and Enterprise Architect - ReactJs | TypeScript | C#!
 
 [more](./about)
