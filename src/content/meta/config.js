@@ -24,7 +24,7 @@ const config = {
   // pathPrefix: '',
 
   /* manifest */
-  manifestName: `${base.name}`,
+  manifestName: `${base.name}'s Technical Blog`,
   manifestShortName: 'Rasik Jain', // max 12 characters
   manifestStartUrl: '/index.html',
   manifestBackgroundColor: '#ffffff',
